@@ -1,2 +1,2 @@
 # RoundAvatar
-![登录界面1](https://github.com/leishui/GxChat/blob/master/image/Screenshot_20190302-001238.jpg)
+![](https://github.com/leishui/RoundAvatar/blob/master/app/src/main/res/drawable/Screenshot_1561404364.png)
